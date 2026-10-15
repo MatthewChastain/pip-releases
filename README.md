@@ -7,7 +7,7 @@ publishes them here; installed Pip checks here for updates.
 |---|---|---|
 | Windows | [PipSetup.exe](https://github.com/MatthewChastain/pip-releases/releases/download/desktop-latest/PipSetup.exe) | [PipSetup.exe](https://github.com/MatthewChastain/pip-releases/releases/download/desktop-preview/PipSetup.exe) |
 | Linux x64 | [pip-linux-x64.tar.gz](https://github.com/MatthewChastain/pip-releases/releases/download/desktop-latest/pip-linux-x64.tar.gz) | [pip-linux-x64.tar.gz](https://github.com/MatthewChastain/pip-releases/releases/download/desktop-preview/pip-linux-x64.tar.gz) |
-| macOS (Apple Silicon) | [Pip.dmg](https://github.com/MatthewChastain/pip-releases/releases/download/desktop-latest/Pip.dmg) | [Pip.dmg](https://github.com/MatthewChastain/pip-releases/releases/download/desktop-preview/Pip.dmg) |
+| macOS (Apple Silicon) | [Pip.dmg](https://github.com/MatthewChastain/pip-releases/releases/download/desktop-latest/Pip.dmg) | Not published |
 | Android | [pip-android.apk](https://github.com/MatthewChastain/pip-releases/releases/download/android-latest/pip-android.apk) | [pip-android.apk](https://github.com/MatthewChastain/pip-releases/releases/download/android-preview/pip-android.apk) |
 
 Each release also has an `update.json` (signed with `update.json.sig`) that
